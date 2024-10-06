@@ -1,4 +1,4 @@
-# Welcome to COS214-Project-214!
+# Welcome to the COS214 Final Project!
 
 Hey there, COS214 explorers! Welcome to **COS214-Project-214**, the home for all your epic team projects and creative coding adventures.
 
